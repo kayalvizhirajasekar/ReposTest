@@ -1,0 +1,40 @@
+AppData
+Application\ Data
+Contacts
+Cookies
+Desktop
+Dheera
+Documents
+Downloads
+Favorites
+IntelGraphicsProfiles
+Links
+Local\ Settings
+Music
+My\ Documents
+NTUSER.DAT
+NTUSER.DAT{d4b417a7-de64-11ed-8e18-94e979a3e03f}.TM.blf
+NTUSER.DAT{d4b417a7-de64-11ed-8e18-94e979a3e03f}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{d4b417a7-de64-11ed-8e18-94e979a3e03f}.TMContainer00000000000000000002.regtrans-ms
+NetHood
+OneDrive
+OneDrive\ -\ Conduent
+Pictures
+Postman
+PrintHood
+Recent
+Runner.txt
+Saved\ Games
+Searches
+SendTo
+Start\ Menu
+Templates
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU'[;P.pdf
+Videos
+dheer
+node_modules
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+package-lock.json
+package.json
